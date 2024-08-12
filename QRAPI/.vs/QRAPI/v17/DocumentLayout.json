@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\qrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\qrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\migrations\\20240807192712_test9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\migrations\\20240807192712_test9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\migrations\\20240806092439_test8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\migrations\\20240806092439_test8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\qr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\qr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\migrations\\20240806084022_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\migrations\\20240806084022_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\migrations\\20240806080920_test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\migrations\\20240806080920_test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\qrapi\\qrapi\\migrations\\20240805113027_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBFCB3-E489-4ABD-BB3B-1FA0943D927F}|QRAPI\\QRAPI.csproj|solutionrelative:qrapi\\migrations\\20240805113027_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QRsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\QRsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\QRsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\QRsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\QRsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:53:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\LocationsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\LocationsController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:53:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizationsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\AuthorizationsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\AuthorizationsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\AuthorizationsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\AuthorizationsController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:53:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:50:44.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240807192712_Test9.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240807192712_Test9.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Migrations\\20240807192712_Test9.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240807192712_Test9.cs",
+              "RelativeToolTip": "QRAPI\\Migrations\\20240807192712_Test9.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwFwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:27:13.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Category.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:16:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:29:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\FoodsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\FoodsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\FoodsController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAADwv6oAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:55:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "QRAPI\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:14:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwK0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:56:10.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\PersonsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:56:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Food.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Food.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Food.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:16:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Location.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Location.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:16:59.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Menu.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Menu.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:17:01.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QR.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\QR.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\QR.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\QR.cs",
+              "RelativeToolTip": "QRAPI\\Models\\QR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:17:05.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240806092439_Test8.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806092439_Test8.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Migrations\\20240806092439_Test8.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806092439_Test8.cs",
+              "RelativeToolTip": "QRAPI\\Migrations\\20240806092439_Test8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:55:23.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Restaurant.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Restaurant.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:17:09.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Ticket.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Ticket.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:18:00.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "QRAPI\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:56:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Car.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Car.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:16:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Models\\Person.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Models\\Person.cs",
+              "RelativeToolTip": "QRAPI\\Models\\Person.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:12:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Program.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Program.cs",
+              "RelativeToolTip": "QRAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:24:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "QRAPI\\appsettings.json",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\appsettings.json",
+              "RelativeToolTip": "QRAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T18:52:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240806084022_Test7.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806084022_Test7.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Migrations\\20240806084022_Test7.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806084022_Test7.cs",
+              "RelativeToolTip": "QRAPI\\Migrations\\20240806084022_Test7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:55:01.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240806080920_Test6.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806080920_Test6.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Migrations\\20240806080920_Test6.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240806080920_Test6.cs",
+              "RelativeToolTip": "QRAPI\\Migrations\\20240806080920_Test6.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:55:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240805113027_Test5.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240805113027_Test5.cs",
+              "RelativeDocumentMoniker": "QRAPI\\Migrations\\20240805113027_Test5.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\QRAPI\\QRAPI\\Migrations\\20240805113027_Test5.cs",
+              "RelativeToolTip": "QRAPI\\Migrations\\20240805113027_Test5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:54:45.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gFgWeNyYXK2Ww3FHhqGERos9BW5ykgKrH9V24088Fck=",
+  "Source": "QRAPI",
+  "BasePath": "_content/QRAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QRAPI\\wwwroot",
+      "Source": "QRAPI",
+      "ContentRoot": "D:\\Yedek\\Emre_Taştekin\\Projeler\\QRAPI\\QRAPI\\wwwroot\\",
+      "BasePath": "_content/QRAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
